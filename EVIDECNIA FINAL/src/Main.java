@@ -41,7 +41,7 @@ public class Main {
             String[] idPacienteCitas = new String[100];
 
             // Ingrese el directorio donde se encuentra la carpeta db
-            String directorio = "C:\\Users\\Brayan\\IdeaProjects\\RegistroDeUsuarios\\src\\db";
+            String directorio = "C:\\Users\\Brayan\\Documents\\GitHub\\EvidenciaFinal\\EVIDECNIA FINAL\\src\\db";
             File pacientesFile = new File(directorio, "pacientes.txt");
             File doctoresFile = new File(directorio, "doctores.txt");
             File citasFile = new File(directorio, "citas.txt");
